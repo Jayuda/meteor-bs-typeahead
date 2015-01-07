@@ -1,1 +1,2 @@
-# meteor-bs-typeahead
+comerc:bs-typeahead
+===================
