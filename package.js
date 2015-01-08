@@ -1,6 +1,6 @@
 Package.describe({
   name: 'comerc:bs-typeahead',
-  summary: 'Typeahead-plugin with Bootstrap-style',
+  summary: 'Typeahead-plugin with Bootstrap',
   version: '1.0.1',
   git: 'https://github.com/comerc/meteor-bs-typeahead.git'
 });
